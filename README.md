@@ -1,12 +1,15 @@
-# iterm-darkside
+# iTerm Colors
 
-This is a iTerm-port of the [Darkside theme](https://github.com/daylerees/colour-schemes#darkside).
+A few iTerm color schemes
 
-## Screenshot
-![Darkside.itermcolors](screenshot.png "If you're looking for that awesome prompt, check out my dotfiles.")
+## Themes
+### Darkside
+This is a iTerm-port of the [Darkside theme](https://github.com/daylerees/colour-schemes).
+![Darkside.itermcolors](screenshots/darkside.png "If you're looking for that awesome prompt, check out my dotfiles.")
 
-## Install
-Download the `Darkside.itermcolors` and double-click it. (You may want to set it to standard in the profiles tab of your iTerm preferences.)
+### Atom
+An iTerm-port of the default [Atom](https://atom.io) theme [Atom Dark Syntax](https://atom.io/packages/atom-dark-syntax).
+![Atom.itermcolors](screenshots/atom.png)
 
-**A small side-node:** The bright colors are actually the normal ones with 20 % less saturation. If you want your bold colored text to be in the normal colors, uncheck `Draw bold text in bright colors` in you iTerm settings.
-
+## License
+Licensed under [WTFPL](LICENSE)
