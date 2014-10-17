@@ -15,5 +15,9 @@ An iTerm-port of the default [Atom](https://atom.io) theme [Atom Dark Syntax](ht
 An iTerm-port of the [Brogrammer theme](https://github.com/kenwheeler/brogrammer-theme)
 ![Brogrammer.itermcolors](screenshots/brogrammer.png)
 
+### Glacier
+An iTerm-port of the beautiful [Glacier theme](http://glaciertheme.com).
+![Glacier.itermcolors](screenshots/glacier.png)
+
 ## License
 Licensed under [WTFPL](LICENSE)
