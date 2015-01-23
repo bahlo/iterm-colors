@@ -19,5 +19,10 @@ An iTerm-port of the [Brogrammer theme](https://github.com/kenwheeler/brogrammer
 An iTerm-port of the beautiful [Glacier theme](http://glaciertheme.com).
 ![Glacier.itermcolors](screenshots/glacier.png)
 
+### Panic
+An iTerm-port of the
+[Panic terminal theme](https://twitter.com/panic/status/558389225612005376).
+![Panic.itermcolors](screenshots/panic.png)
+
 ## License
 Licensed under [WTFPL](LICENSE)
