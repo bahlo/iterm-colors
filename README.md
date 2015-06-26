@@ -24,5 +24,10 @@ An iTerm-port of the
 [Panic terminal theme](https://twitter.com/panic/status/558389225612005376).
 ![Panic.itermcolors](screenshots/panic.png)
 
+### One Dark
+An iTerm-port of the
+[One Dark Theme](https://atom.io/themes/one-dark-syntax).
+![One Dark.itermcolors](screenshots/one-dark.png)
+
 ## License
 Licensed under [WTFPL](LICENSE)
